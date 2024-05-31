@@ -1,4 +1,4 @@
-package ics23
+package ics87
 
 // IsCompressed returns true if the proof was compressed
 func IsCompressed(proof *CommitmentProof) bool {
